@@ -1,0 +1,225 @@
+{
+  "resolvedId": "/Users/walker/Desktop/recordedhistory.github.io/pages/index.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<script setup>\ndefinePageMeta({\n  layout: \"landing\",\n});\n</script>\n\n<template>\n  <LandingContainer>\n    <LandingHero></LandingHero>\n    <LandingFeatures></LandingFeatures>\n  </LandingContainer>\n</template>\n",
+      "start": 1721503737983,
+      "end": 1721503738343,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "import { resolveComponent as _resolveComponent, createVNode as _createVNode, withCtx as _withCtx, openBlock as _openBlock, createBlock as _createBlock } from \"vue\"\n\n\nconst _sfc_main = {\n  __name: 'index',\n  setup(__props) {\n\ndefinePageMeta({\n  layout: \"landing\",\n});\n\nreturn (_ctx, _cache) => {\n  const _component_LandingHero = _resolveComponent(\"LandingHero\")\n  const _component_LandingFeatures = _resolveComponent(\"LandingFeatures\")\n  const _component_LandingContainer = _resolveComponent(\"LandingContainer\")\n\n  return (_openBlock(), _createBlock(_component_LandingContainer, null, {\n    default: _withCtx(() => [\n      _createVNode(_component_LandingHero),\n      _createVNode(_component_LandingFeatures)\n    ]),\n    _: 1\n  }))\n}\n}\n\n}\n\n\n\nexport default _sfc_main",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1721503738343,
+      "end": 1721503738343,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1721503738344,
+      "end": 1721503738344,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1721503738344,
+      "end": 1721503738344,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1721503738344,
+      "end": 1721503738344,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1721503738344,
+      "end": 1721503738344,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1721503738344,
+      "end": 1721503738344,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "result": "import { definePageMeta } from '/Users/walker/Desktop/recordedhistory.github.io/node_modules/nuxt/dist/pages/runtime/composables';\nimport { resolveComponent as _resolveComponent, createVNode as _createVNode, withCtx as _withCtx, openBlock as _openBlock, createBlock as _createBlock } from \"vue\"\n\n\nconst _sfc_main = {\n  __name: 'index',\n  setup(__props) {\n\ndefinePageMeta({\n  layout: \"landing\",\n});\n\nreturn (_ctx, _cache) => {\n  const _component_LandingHero = _resolveComponent(\"LandingHero\")\n  const _component_LandingFeatures = _resolveComponent(\"LandingFeatures\")\n  const _component_LandingContainer = _resolveComponent(\"LandingContainer\")\n\n  return (_openBlock(), _createBlock(_component_LandingContainer, null, {\n    default: _withCtx(() => [\n      _createVNode(_component_LandingHero),\n      _createVNode(_component_LandingFeatures)\n    ]),\n    _: 1\n  }))\n}\n}\n\n}\n\n\n\nexport default _sfc_main",
+      "start": 1721503738344,
+      "end": 1721503738344,
+      "order": "post",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          ""
+        ],
+        "names": [],
+        "mappings": ";AAAA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACnK;AACA;AACA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACnB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AAClB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AAClB;AACA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AAChB,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACpB,CAAC,CAAC,CAAC;AACH;AACA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AAC1B,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACjE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACzE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AAC3E;AACA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACzE,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AAC7B,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AAC3C,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AAC9C,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACP,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC;AACR,CAAC,CAAC,CAAC,CAAC,CAAC;AACL,CAAC;AACD,CAAC;AACD;AACA,CAAC;AACD;AACA;AACA;AACA,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC,CAAC"
+      }
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1721503738344,
+      "end": 1721503738345,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1721503738345,
+      "end": 1721503738345,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1721503738345,
+      "end": 1721503738345,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1721503738345,
+      "end": 1721503738345,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/walker/Desktop/recordedhistory.github.io/components/landing/Hero.vue\";\nimport { default as __nuxt_component_1 } from \"/Users/walker/Desktop/recordedhistory.github.io/components/landing/Features.vue\";\nimport { default as __nuxt_component_2 } from \"/Users/walker/Desktop/recordedhistory.github.io/components/landing/Container.vue\";\nimport { definePageMeta } from '/Users/walker/Desktop/recordedhistory.github.io/node_modules/nuxt/dist/pages/runtime/composables';\nimport { resolveComponent as _resolveComponent, createVNode as _createVNode, withCtx as _withCtx, openBlock as _openBlock, createBlock as _createBlock } from \"vue\"\n\n\nconst _sfc_main = {\n  __name: 'index',\n  setup(__props) {\n\ndefinePageMeta({\n  layout: \"landing\",\n});\n\nreturn (_ctx, _cache) => {\n  const _component_LandingHero = __nuxt_component_0\n  const _component_LandingFeatures = __nuxt_component_1\n  const _component_LandingContainer = __nuxt_component_2\n\n  return (_openBlock(), _createBlock(_component_LandingContainer, null, {\n    default: _withCtx(() => [\n      _createVNode(_component_LandingHero),\n      _createVNode(_component_LandingFeatures)\n    ]),\n    _: 1\n  }))\n}\n}\n\n}\n\n\n\nexport default _sfc_main",
+      "start": 1721503738345,
+      "end": 1721503738345,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/walker/Desktop/recordedhistory.github.io/components/landing/Hero.vue\";\nimport { default as __nuxt_component_1 } from \"/Users/walker/Desktop/recordedhistory.github.io/components/landing/Features.vue\";\nimport { default as __nuxt_component_2 } from \"/Users/walker/Desktop/recordedhistory.github.io/components/landing/Container.vue\";\nimport { definePageMeta } from '/Users/walker/Desktop/recordedhistory.github.io/node_modules/nuxt/dist/pages/runtime/composables';\nimport { resolveComponent as _resolveComponent, createVNode as _createVNode, withCtx as _withCtx, openBlock as _openBlock, createBlock as _createBlock } from \"vue\"\n\n\nconst _sfc_main = {\n  __name: 'index',\n  setup(__props) {\n\n false && /*@__PURE__*/ definePageMeta({\n  layout: \"landing\",\n});\n\nreturn (_ctx, _cache) => {\n  const _component_LandingHero = __nuxt_component_0\n  const _component_LandingFeatures = __nuxt_component_1\n  const _component_LandingContainer = __nuxt_component_2\n\n  return (_openBlock(), _createBlock(_component_LandingContainer, null, {\n    default: _withCtx(() => [\n      _createVNode(_component_LandingHero),\n      _createVNode(_component_LandingFeatures)\n    ]),\n    _: 1\n  }))\n}\n}\n\n}\n\n\n\nexport default _sfc_main",
+      "start": 1721503738345,
+      "end": 1721503738345,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1721503738345,
+      "end": 1721503738346,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1721503738346,
+      "end": 1721503738346,
+      "order": "normal"
+    }
+  ]
+}
