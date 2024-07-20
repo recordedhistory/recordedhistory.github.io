@@ -1,0 +1,215 @@
+{
+  "resolvedId": "/Users/walker/Desktop/recordedhistory.github.io/components/landing/Hero.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\n  <main class=\"grid lg:grid-cols-2 place-items-center pt-16 pb-8 md:pt-8\">\n    <div class=\"p-24 md:order-1 hidden md:block\">\n      <img\n        class=\"rounded-full scale-125\"\n        src=\"~/assets/img/IMG_0132.jpg\"\n        alt=\"Starship starts the engine\"\n        loading=\"eager\"\n        format=\"avif\"\n        width=\"512\"\n        height=\"512\"\n        title=\"microphone\"\n      />\n    </div>\n\n    <div>\n      <h1 class=\"text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight\">\n        We record your stories in your voice\n      </h1>\n      <p class=\"text-lg mt-4 text-slate-600 max-w-xl\">\n        Through a high-quality interview, you or your loved ones' memories are brought to life in curated candor\n      </p>\n      <div class=\"mt-6 flex flex-col sm:flex-row gap-3\">\n        <LandingLink\n          href=\"/contact\"\n          rel=\"noopener\"\n          >Get started</LandingLink\n        >\n        <LandingLink\n          size=\"lg\"\n          styleName=\"outline\"\n          rel=\"noopener\"\n          href=\"/about\"\n          >Listen to our work</LandingLink\n        >\n      </div>\n    </div>\n  </main>\n</template>\n",
+      "start": 1721516027018,
+      "end": 1721516027125,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1721516027125,
+      "end": 1721516027125,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1721516027125,
+      "end": 1721516027125,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1721516027125,
+      "end": 1721516027125,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1721516027125,
+      "end": 1721516027125,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1721516027125,
+      "end": 1721516027125,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1721516027125,
+      "end": 1721516027125,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1721516027125,
+      "end": 1721516027125,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from 'assets/img/IMG_0132.jpg'\n\n\nconst _hoisted_1 = { class: \"grid lg:grid-cols-2 place-items-center pt-16 pb-8 md:pt-8\" }\nconst _hoisted_2 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"p-24 md:order-1 hidden md:block\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    class: \"rounded-full scale-125\",\n    src: _imports_0,\n    alt: \"Starship starts the engine\",\n    loading: \"eager\",\n    format: \"avif\",\n    width: \"512\",\n    height: \"512\",\n    title: \"microphone\"\n  })\n], -1)\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"h1\", { class: \"text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight\" }, \" We record your stories in your voice \", -1)\nconst _hoisted_4 = /*#__PURE__*/_createElementVNode(\"p\", { class: \"text-lg mt-4 text-slate-600 max-w-xl\" }, \" Through a high-quality interview, you or your loved ones' memories are brought to life in curated candor \", -1)\nconst _hoisted_5 = { class: \"mt-6 flex flex-col sm:flex-row gap-3\" }\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_LandingLink = _resolveComponent(\"LandingLink\")\n\n  return (_openBlock(), _createElementBlock(\"main\", _hoisted_1, [\n    _hoisted_2,\n    _createElementVNode(\"div\", null, [\n      _hoisted_3,\n      _hoisted_4,\n      _createElementVNode(\"div\", _hoisted_5, [\n        _createVNode(_component_LandingLink, {\n          href: \"/contact\",\n          rel: \"noopener\"\n        }, {\n          default: _withCtx(() => [\n            _createTextVNode(\"Get started\")\n          ]),\n          _: 1\n        }),\n        _createVNode(_component_LandingLink, {\n          size: \"lg\",\n          styleName: \"outline\",\n          rel: \"noopener\",\n          href: \"/about\"\n        }, {\n          default: _withCtx(() => [\n            _createTextVNode(\"Listen to our work\")\n          ]),\n          _: 1\n        })\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1721516027125,
+      "end": 1721516027127,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1721516027127,
+      "end": 1721516027127,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516027127,
+      "end": 1721516027127,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1721516027127,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:chunk-error",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1721516027128,
+      "end": 1721516027128,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1721516027128,
+      "end": 1721516027129,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1721516027129,
+      "end": 1721516027129,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1721516027129,
+      "end": 1721516027129,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:runtime-paths-dep",
+      "start": 1721516027129,
+      "end": 1721516027129,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:route-injection-plugin",
+      "start": 1721516027129,
+      "end": 1721516027129,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "result": "import { default as __nuxt_component_0 } from \"/Users/walker/Desktop/recordedhistory.github.io/components/landing/Link.vue\";\nconst _sfc_main = {}\nimport { createElementVNode as _createElementVNode, createTextVNode as _createTextVNode, resolveComponent as _resolveComponent, withCtx as _withCtx, createVNode as _createVNode, openBlock as _openBlock, createElementBlock as _createElementBlock } from \"vue\"\nimport _imports_0 from 'assets/img/IMG_0132.jpg'\n\n\nconst _hoisted_1 = { class: \"grid lg:grid-cols-2 place-items-center pt-16 pb-8 md:pt-8\" }\nconst _hoisted_2 = /*#__PURE__*/_createElementVNode(\"div\", { class: \"p-24 md:order-1 hidden md:block\" }, [\n  /*#__PURE__*/_createElementVNode(\"img\", {\n    class: \"rounded-full scale-125\",\n    src: _imports_0,\n    alt: \"Starship starts the engine\",\n    loading: \"eager\",\n    format: \"avif\",\n    width: \"512\",\n    height: \"512\",\n    title: \"microphone\"\n  })\n], -1)\nconst _hoisted_3 = /*#__PURE__*/_createElementVNode(\"h1\", { class: \"text-5xl lg:text-6xl xl:text-7xl font-bold lg:tracking-tight\" }, \" We record your stories in your voice \", -1)\nconst _hoisted_4 = /*#__PURE__*/_createElementVNode(\"p\", { class: \"text-lg mt-4 text-slate-600 max-w-xl\" }, \" Through a high-quality interview, you or your loved ones' memories are brought to life in curated candor \", -1)\nconst _hoisted_5 = { class: \"mt-6 flex flex-col sm:flex-row gap-3\" }\n\nfunction _sfc_render(_ctx, _cache) {\n  const _component_LandingLink = __nuxt_component_0\n\n  return (_openBlock(), _createElementBlock(\"main\", _hoisted_1, [\n    _hoisted_2,\n    _createElementVNode(\"div\", null, [\n      _hoisted_3,\n      _hoisted_4,\n      _createElementVNode(\"div\", _hoisted_5, [\n        _createVNode(_component_LandingLink, {\n          href: \"/contact\",\n          rel: \"noopener\"\n        }, {\n          default: _withCtx(() => [\n            _createTextVNode(\"Get started\")\n          ]),\n          _: 1\n        }),\n        _createVNode(_component_LandingLink, {\n          size: \"lg\",\n          styleName: \"outline\",\n          rel: \"noopener\",\n          href: \"/about\"\n        }, {\n          default: _withCtx(() => [\n            _createTextVNode(\"Listen to our work\")\n          ]),\n          _: 1\n        })\n      ])\n    ])\n  ]))\n}\n\n\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['render',_sfc_render]])",
+      "start": 1721516027129,
+      "end": 1721516027129,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1721516027129,
+      "end": 1721516027129,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1721516027129,
+      "end": 1721516027129,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1721516027129,
+      "end": 1721516027129,
+      "order": "normal"
+    }
+  ]
+}

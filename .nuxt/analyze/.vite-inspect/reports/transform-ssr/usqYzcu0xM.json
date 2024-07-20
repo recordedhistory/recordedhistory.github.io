@@ -1,0 +1,263 @@
+{
+  "resolvedId": "/Users/walker/Desktop/recordedhistory.github.io/assets/css/main.css",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "@tailwind base;\n@tailwind components;\n@tailwind utilities;\n",
+      "start": 1721516029425,
+      "end": 1721516029572,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1721516029572,
+      "end": 1721516029572,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1721516029572,
+      "end": 1721516029572,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1721516029572,
+      "end": 1721516029572,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1721516029572,
+      "end": 1721516029572,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1721516029572,
+      "end": 1721516029572,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "result": "/*! tailwindcss v3.4.0 | MIT License | https://tailwindcss.com*/*,:after,:before{border:0 solid #e5e7eb;box-sizing:border-box}:after,:before{--tw-content:\"\"}:host,html{line-height:1.5;-webkit-text-size-adjust:100%;font-family:Inter,ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-feature-settings:normal;font-variation-settings:normal;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-tap-highlight-color:transparent}body{line-height:inherit;margin:0}hr{border-top-width:1px;color:inherit;height:0}abbr:where([title]){-webkit-text-decoration:underline dotted;text-decoration:underline dotted}h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight:inherit}a{color:inherit;text-decoration:inherit}b,strong{font-weight:bolder}code,kbd,pre,samp{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-feature-settings:normal;font-size:1em;font-variation-settings:normal}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}table{border-collapse:collapse;border-color:inherit;text-indent:0}button,input,optgroup,select,textarea{color:inherit;font-family:inherit;font-feature-settings:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;line-height:inherit;margin:0;padding:0}button,select{text-transform:none}[type=button],[type=reset],[type=submit],button{-webkit-appearance:button;background-color:transparent;background-image:none}:-moz-focusring{outline:auto}:-moz-ui-invalid{box-shadow:none}progress{vertical-align:baseline}::-webkit-inner-spin-button,::-webkit-outer-spin-button{height:auto}[type=search]{-webkit-appearance:textfield;outline-offset:-2px}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}summary{display:list-item}blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre{margin:0}fieldset{margin:0}fieldset,legend{padding:0}menu,ol,ul{list-style:none;margin:0;padding:0}dialog{padding:0}textarea{resize:vertical}input::-moz-placeholder,textarea::-moz-placeholder{color:#9ca3af;opacity:1}input::placeholder,textarea::placeholder{color:#9ca3af;opacity:1}[role=button],button{cursor:pointer}:disabled{cursor:default}audio,canvas,embed,iframe,img,object,svg,video{display:block;vertical-align:middle}img,video{height:auto;max-width:100%}[hidden]{display:none}*,:after,:before{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }::backdrop{--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:#fff;--tw-ring-color:rgba(59,130,246,.5);--tw-ring-offset-shadow:0 0 #0000;--tw-ring-shadow:0 0 #0000;--tw-shadow:0 0 #0000;--tw-shadow-colored:0 0 #0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: }.mx-auto{margin-left:auto;margin-right:auto}.my-20{margin-bottom:5rem;margin-top:5rem}.my-5{margin-bottom:1.25rem;margin-top:1.25rem}.mb-4{margin-bottom:1rem}.ml-7{margin-left:1.75rem}.mt-1{margin-top:.25rem}.mt-16{margin-top:4rem}.mt-2{margin-top:.5rem}.mt-4{margin-top:1rem}.mt-6{margin-top:1.5rem}.block{display:block}.flex{display:flex}.grid{display:grid}.hidden{display:none}.h-4{height:1rem}.w-4{width:1rem}.w-full{width:100%}.max-w-4xl{max-width:56rem}.max-w-screen-xl{max-width:1280px}.max-w-xl{max-width:36rem}.scale-125{--tw-scale-x:1.25;--tw-scale-y:1.25;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))}.list-disc{list-style-type:disc}.flex-col{flex-direction:column}.place-items-center{place-items:center}.items-start{align-items:flex-start}.items-center{align-items:center}.justify-between{justify-content:space-between}.gap-16{gap:4rem}.gap-3{gap:.75rem}.gap-4{gap:1rem}.rounded{border-radius:.25rem}.rounded-full{border-radius:9999px}.border-2{border-width:2px}.border-black{--tw-border-opacity:1;border-color:rgb(0 0 0/var(--tw-border-opacity))}.border-transparent{border-color:transparent}.bg-black{--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity))}.bg-gray-100{--tw-bg-opacity:1;background-color:rgb(243 244 246/var(--tw-bg-opacity))}.bg-white{--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity))}.p-24{padding:6rem}.px-2{padding-left:.5rem;padding-right:.5rem}.px-4{padding-left:1rem;padding-right:1rem}.px-5{padding-left:1.25rem;padding-right:1.25rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.py-2{padding-bottom:.5rem;padding-top:.5rem}.py-2\\.5{padding-bottom:.625rem;padding-top:.625rem}.py-3{padding-bottom:.75rem;padding-top:.75rem}.pb-8{padding-bottom:2rem}.pt-16{padding-top:4rem}.text-center{text-align:center}.text-4xl{font-size:2.25rem;line-height:2.5rem}.text-5xl{font-size:3rem;line-height:1}.text-lg{font-size:1.125rem;line-height:1.75rem}.text-sm{font-size:.875rem;line-height:1.25rem}.text-xs{font-size:.75rem;line-height:1rem}.font-bold{font-weight:700}.text-black{--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity))}.text-gray-600{--tw-text-opacity:1;color:rgb(75 85 99/var(--tw-text-opacity))}.text-gray-800{--tw-text-opacity:1;color:rgb(31 41 55/var(--tw-text-opacity))}.text-slate-500{--tw-text-opacity:1;color:rgb(100 116 139/var(--tw-text-opacity))}.text-slate-600{--tw-text-opacity:1;color:rgb(71 85 105/var(--tw-text-opacity))}.text-slate-800{--tw-text-opacity:1;color:rgb(30 41 59/var(--tw-text-opacity))}.text-white{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.underline{text-decoration-line:underline}.outline{outline-style:solid}.ring-gray-200{--tw-ring-opacity:1;--tw-ring-color:rgb(229 231 235/var(--tw-ring-opacity))}.ring-offset-2{--tw-ring-offset-width:2px}.transition{transition-duration:.15s;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1)}.hover\\:bg-black:hover{--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity))}.hover\\:bg-gray-100:hover{--tw-bg-opacity:1;background-color:rgb(243 244 246/var(--tw-bg-opacity))}.hover\\:bg-gray-200:hover{--tw-bg-opacity:1;background-color:rgb(229 231 235/var(--tw-bg-opacity))}.hover\\:bg-gray-800:hover{--tw-bg-opacity:1;background-color:rgb(31 41 55/var(--tw-bg-opacity))}.hover\\:bg-slate-900:hover{--tw-bg-opacity:1;background-color:rgb(15 23 42/var(--tw-bg-opacity))}.hover\\:text-gray-900:hover{--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity))}.hover\\:text-white:hover{--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))}.hover\\:underline:hover{text-decoration-line:underline}.focus-visible\\:ring-2:focus-visible{--tw-ring-offset-shadow:var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);--tw-ring-shadow:var(--tw-ring-inset) 0 0 0 calc(2px + var(--tw-ring-offset-width)) var(--tw-ring-color);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow,0 0 #0000)}@media (min-width:640px){.sm\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.sm\\:flex-row{flex-direction:row}}@media (min-width:768px){.md\\:order-1{order:1}.md\\:mt-0{margin-top:0}.md\\:block{display:block}.md\\:grid-cols-3{grid-template-columns:repeat(3,minmax(0,1fr))}.md\\:pt-8{padding-top:2rem}}@media (min-width:1024px){.lg\\:mt-0{margin-top:0}.lg\\:flex{display:flex}.lg\\:hidden{display:none}.lg\\:w-auto{width:auto}.lg\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}.lg\\:flex-row{flex-direction:row}.lg\\:gap-3{gap:.75rem}.lg\\:px-3{padding-left:.75rem;padding-right:.75rem}.lg\\:text-5xl{font-size:3rem;line-height:1}.lg\\:text-6xl{font-size:3.75rem;line-height:1}.lg\\:tracking-tight{letter-spacing:-.025em}}@media (min-width:1280px){.xl\\:text-7xl{font-size:4.5rem;line-height:1}}",
+      "start": 1721516029573,
+      "end": 1721516029644,
+      "order": "normal",
+      "sourcemaps": {
+        "file": "/Users/walker/Desktop/recordedhistory.github.io/assets/css/main.css",
+        "mappings": "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",
+        "names": [],
+        "sources": [
+          "/Users/walker/Desktop/recordedhistory.github.io/assets/css/main.css"
+        ],
+        "sourcesContent": [
+          "@tailwind base;\n@tailwind components;\n@tailwind utilities;\n"
+        ],
+        "version": 3
+      }
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "result": "",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1721516029644,
+      "end": 1721516029644,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1721516029644,
+      "end": 1721516029645,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1721516029644,
+      "end": 1721516029645,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1721516029645,
+      "end": 1721516029645,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1721516029645,
+      "end": 1721516029645,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-template",
+      "start": 1721516029645,
+      "end": 1721516029645,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1721516029645,
+      "end": 1721516029645,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1721516029645,
+      "end": 1721516029645,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1721516029645,
+      "end": 1721516029645,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1721516029645,
+      "end": 1721516029645,
+      "order": "normal"
+    }
+  ]
+}

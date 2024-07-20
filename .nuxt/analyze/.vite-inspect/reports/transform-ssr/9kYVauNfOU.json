@@ -1,0 +1,258 @@
+{
+  "resolvedId": "/Users/walker/Desktop/recordedhistory.github.io/components/landing/Features.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<script setup>\n</script>\n\n<template>\n  <div class=\"mt-16 md:mt-0\">\n    <h2 class=\"text-4xl lg:text-5xl font-bold lg:tracking-tight\">\n      Here’s How It Works\n    </h2>\n    <ul class=\"text-lg mt-4 text-slate-600 list-disc ml-7\">\n    <li>You fill out the questionnaire found <a class=\"underline font-bold\" href=\"/contact\">here</a> so that we can craft thoughtful questions.</li>\n\n<li>A member of the Recorded History team will contact you to schedule the conversation.</li>\n\n<li>Then, sit with an interviewer to capture you or your loved ones' memories in a casual conversation. We can meet wherever you’re most comfortable.</li>\n\n<li>Within 2 weeks, you will receive a digital file, USB thumb drive and CD with an edited, professional quality recording that you will be able to cherish forever.</li>\n    </ul>\n  </div>\n\n  <div class=\"grid sm:grid-cols-2 md:grid-cols-3 mt-16 gap-16\">\n    <div class=\"flex gap-4 items-start\">\n      <div>\n        <img title=\"David Lapier\" class=\"mb-4\" src=\"/assets/img/IMG_1024.jpg\"/>\n        <iframe title=\"David Lapier\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197840955%3Fsecret_token%3Ds-1mcca0gwGFV&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe>\n      </div>\n    </div>\n     <div class=\"flex gap-4 items-start\">\n      <div>\n        <img title=\"Janet Dunkelberg\" class=\"mb-4\" src=\"/assets/img/IMG_0093.jpeg\"/>\n        <iframe title=\"Janet Dunkelberg\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197841225%3Fsecret_token%3Ds-gLGGvpTRiFs&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe>\n      </div>\n    </div>\n     <div class=\"flex gap-4 items-start\">\n      <div>\n        <img title=\"Steven Wright\" class=\"mb-4\" src=\"/assets/img/IMG-2127.jpeg\"/>\n        <iframe title=\"Steven Wright\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197841135%3Fsecret_token%3Ds-IQYz4O69Bwq&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe>\n      </div>\n    </div>\n  </div>\n</template>\n",
+      "start": 1721516030138,
+      "end": 1721516030337,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1721516030337,
+      "end": 1721516030337,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1721516030337,
+      "end": 1721516030337,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1721516030337,
+      "end": 1721516030337,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1721516030337,
+      "end": 1721516030337,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1721516030337,
+      "end": 1721516030337,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1721516030338,
+      "end": 1721516030338,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1721516030338,
+      "end": 1721516030338,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1721516030338,
+      "end": 1721516030338,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1721516030338,
+      "end": 1721516030338,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "const _sfc_main = {}\nimport { ssrRenderAttr as _ssrRenderAttr } from \"vue/server-renderer\"\nimport _imports_0 from '/assets/img/IMG_1024.jpg'\nimport _imports_1 from '/assets/img/IMG_0093.jpeg'\nimport _imports_2 from '/assets/img/IMG-2127.jpeg'\n\n\nfunction _sfc_ssrRender(_ctx, _push, _parent, _attrs) {\n  _push(`<!--[--><div class=\"mt-16 md:mt-0\"><h2 class=\"text-4xl lg:text-5xl font-bold lg:tracking-tight\"> Here’s How It Works </h2><ul class=\"text-lg mt-4 text-slate-600 list-disc ml-7\"><li>You fill out the questionnaire found <a class=\"underline font-bold\" href=\"/contact\">here</a> so that we can craft thoughtful questions.</li><li>A member of the Recorded History team will contact you to schedule the conversation.</li><li>Then, sit with an interviewer to capture you or your loved ones&#39; memories in a casual conversation. We can meet wherever you’re most comfortable.</li><li>Within 2 weeks, you will receive a digital file, USB thumb drive and CD with an edited, professional quality recording that you will be able to cherish forever.</li></ul></div><div class=\"grid sm:grid-cols-2 md:grid-cols-3 mt-16 gap-16\"><div class=\"flex gap-4 items-start\"><div><img title=\"David Lapier\" class=\"mb-4\"${\n    _ssrRenderAttr(\"src\", _imports_0)\n  }><iframe title=\"David Lapier\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197840955%3Fsecret_token%3Ds-1mcca0gwGFV&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></div></div><div class=\"flex gap-4 items-start\"><div><img title=\"Janet Dunkelberg\" class=\"mb-4\"${\n    _ssrRenderAttr(\"src\", _imports_1)\n  }><iframe title=\"Janet Dunkelberg\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197841225%3Fsecret_token%3Ds-gLGGvpTRiFs&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></div></div><div class=\"flex gap-4 items-start\"><div><img title=\"Steven Wright\" class=\"mb-4\"${\n    _ssrRenderAttr(\"src\", _imports_2)\n  }><iframe title=\"Steven Wright\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197841135%3Fsecret_token%3Ds-IQYz4O69Bwq&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></div></div></div><!--]-->`)\n}\n\n\nimport { useSSRContext as __vite_useSSRContext } from 'vue'\nconst _sfc_setup = _sfc_main.setup\n_sfc_main.setup = (props, ctx) => {\n  const ssrContext = __vite_useSSRContext()\n  ;(ssrContext.modules || (ssrContext.modules = new Set())).add(\"components/landing/Features.vue\")\n  return _sfc_setup ? _sfc_setup(props, ctx) : undefined\n}\nimport _export_sfc from '\u0000plugin-vue:export-helper'\nexport default /*#__PURE__*/_export_sfc(_sfc_main, [['ssrRender',_sfc_ssrRender]])",
+      "start": 1721516030338,
+      "end": 1721516030340,
+      "order": "normal",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          "/Users/walker/Desktop/recordedhistory.github.io/components/landing/Features.vue"
+        ],
+        "names": [],
+        "mappings": ";OAsB+C,UAA8B;OAM1B,UAA+B;OAMlC,UAA+B;;;;EAlC/E;IAAA,eAsB+C,KAA8B,EAA9B,UAA8B;;IAtB7E,eA4BmD,KAA+B,EAA/B,UAA+B;;IA5BlF,eAkCgD,KAA+B,EAA/B,UAA+B",
+        "sourcesContent": [
+          "<script setup>\n</script>\n\n<template>\n  <div class=\"mt-16 md:mt-0\">\n    <h2 class=\"text-4xl lg:text-5xl font-bold lg:tracking-tight\">\n      Here’s How It Works\n    </h2>\n    <ul class=\"text-lg mt-4 text-slate-600 list-disc ml-7\">\n    <li>You fill out the questionnaire found <a class=\"underline font-bold\" href=\"/contact\">here</a> so that we can craft thoughtful questions.</li>\n\n<li>A member of the Recorded History team will contact you to schedule the conversation.</li>\n\n<li>Then, sit with an interviewer to capture you or your loved ones' memories in a casual conversation. We can meet wherever you’re most comfortable.</li>\n\n<li>Within 2 weeks, you will receive a digital file, USB thumb drive and CD with an edited, professional quality recording that you will be able to cherish forever.</li>\n    </ul>\n  </div>\n\n  <div class=\"grid sm:grid-cols-2 md:grid-cols-3 mt-16 gap-16\">\n    <div class=\"flex gap-4 items-start\">\n      <div>\n        <img title=\"David Lapier\" class=\"mb-4\" src=\"/assets/img/IMG_1024.jpg\"/>\n        <iframe title=\"David Lapier\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197840955%3Fsecret_token%3Ds-1mcca0gwGFV&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe>\n      </div>\n    </div>\n     <div class=\"flex gap-4 items-start\">\n      <div>\n        <img title=\"Janet Dunkelberg\" class=\"mb-4\" src=\"/assets/img/IMG_0093.jpeg\"/>\n        <iframe title=\"Janet Dunkelberg\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197841225%3Fsecret_token%3Ds-gLGGvpTRiFs&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe>\n      </div>\n    </div>\n     <div class=\"flex gap-4 items-start\">\n      <div>\n        <img title=\"Steven Wright\" class=\"mb-4\" src=\"/assets/img/IMG-2127.jpeg\"/>\n        <iframe title=\"Steven Wright\" width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1197841135%3Fsecret_token%3Ds-IQYz4O69Bwq&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe>\n      </div>\n    </div>\n  </div>\n</template>\n"
+        ]
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1721516030340,
+      "end": 1721516030340,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1721516030340,
+      "end": 1721516030341,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1721516030340,
+      "end": 1721516030341,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1721516030341,
+      "end": 1721516030341,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1721516030341,
+      "end": 1721516030341,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1721516030341,
+      "end": 1721516030341,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1721516030341,
+      "end": 1721516030341,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-template",
+      "start": 1721516030341,
+      "end": 1721516030341,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1721516030341,
+      "end": 1721516030341,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1721516030341,
+      "end": 1721516030342,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1721516030342,
+      "end": 1721516030342,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1721516030342,
+      "end": 1721516030342,
+      "order": "normal"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "resolvedId": "/Users/walker/Desktop/recordedhistory.github.io/components/landing/Sectionhead.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<script setup>\ndefineProps({\n  align: {\n    default: \"center\",\n  },\n});\n</script>\n\n<template>\n  <div :class=\"['mt-16']\">\n    <h1 class=\"text-4xl lg:text-5xl font-bold lg:tracking-tight\">\n      <slot name=\"title\">Title</slot>\n    </h1>\n    <p class=\"text-lg mt-4 text-slate-600\">\n      <slot name=\"desc\">Some description goes here</slot>\n    </p>\n  </div>\n</template>\n",
+      "start": 1721516030133,
+      "end": 1721516030328,
+      "sourcemaps": null
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:layer-aliasing",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:server-devonly:transform",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "pre"
+    },
+    {
+      "name": "nuxt:client-fallback-auto-id",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "pre"
+    },
+    {
+      "name": "vite:css",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1721516030328,
+      "end": 1721516030328,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue",
+      "result": "import { mergeProps as _mergeProps } from \"vue\"\nimport { ssrRenderSlot as _ssrRenderSlot, ssrRenderAttrs as _ssrRenderAttrs } from \"vue/server-renderer\"\n\n\nconst _sfc_main = {\n  __name: 'Sectionhead',\n  __ssrInlineRender: true,\n  props: {\n  align: {\n    default: \"center\",\n  },\n},\n  setup(__props) {\n\n\n\nreturn (_ctx, _push, _parent, _attrs) => {\n  _push(`<div${_ssrRenderAttrs(_mergeProps({ class: ['mt-16'] }, _attrs))}><h1 class=\"text-4xl lg:text-5xl font-bold lg:tracking-tight\">`)\n  _ssrRenderSlot(_ctx.$slots, \"title\", {}, () => {\n    _push(`Title`)\n  }, _push, _parent)\n  _push(`</h1><p class=\"text-lg mt-4 text-slate-600\">`)\n  _ssrRenderSlot(_ctx.$slots, \"desc\", {}, () => {\n    _push(`Some description goes here`)\n  }, _push, _parent)\n  _push(`</p></div>`)\n}\n}\n\n}\n\n\n\nimport { useSSRContext as __vite_useSSRContext } from 'vue'\nconst _sfc_setup = _sfc_main.setup\n_sfc_main.setup = (props, ctx) => {\n  const ssrContext = __vite_useSSRContext()\n  ;(ssrContext.modules || (ssrContext.modules = new Set())).add(\"components/landing/Sectionhead.vue\")\n  return _sfc_setup ? _sfc_setup(props, ctx) : undefined\n}\nexport default _sfc_main",
+      "start": 1721516030328,
+      "end": 1721516030330,
+      "order": "normal",
+      "sourcemaps": {
+        "version": 3,
+        "sources": [
+          "/Users/walker/Desktop/recordedhistory.github.io/components/landing/Sectionhead.vue"
+        ],
+        "sourcesContent": [
+          "<script setup>\ndefineProps({\n  align: {\n    default: \"center\",\n  },\n});\n</script>\n\n<template>\n  <div :class=\"['mt-16']\">\n    <h1 class=\"text-4xl lg:text-5xl font-bold lg:tracking-tight\">\n      <slot name=\"title\">Title</slot>\n    </h1>\n    <p class=\"text-lg mt-4 text-slate-600\">\n      <slot name=\"desc\">Some description goes here</slot>\n    </p>\n  </div>\n</template>\n"
+        ],
+        "names": [],
+        "mappings": ";;;;;;;;;;;;;AAAc;AAKX;;;;;;;;;;;;;;;"
+      }
+    },
+    {
+      "name": "vite:vue-jsx",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:remove-plugin-metadata",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:components:imports",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "replace",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "ssr-styles",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "vite:define",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "normal"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:composable-keys",
+      "start": 1721516030330,
+      "end": 1721516030330,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1721516030330,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:imports-transform",
+      "start": 1721516030330,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "unctx:transform",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:pages-macros-transform",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-template",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:components-loader",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "nuxt:tree-shake-composables:transform",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "post"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1721516030331,
+      "end": 1721516030331,
+      "order": "normal"
+    }
+  ]
+}
