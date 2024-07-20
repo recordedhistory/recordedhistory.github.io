@@ -1,2 +1,1 @@
-# recordedhistory.github.io
-Recorded History website
+Recorded History

@@ -1,0 +1,1 @@
+export { default } from "file:///Users/walker/Desktop/recordedhistory.github.io/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
